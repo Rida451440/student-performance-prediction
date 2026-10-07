@@ -1,0 +1,6 @@
+Model,CV Mean Accuracy (%),CV Std (%),Test Accuracy (%)
+Random Forest,100.0,0.0,100.0
+Logistic Regression,100.0,0.0,87.5
+Gradient Boosting,100.0,0.0,100.0
+Decision Tree,96.67,6.67,100.0
+KNN,96.67,6.67,100.0
